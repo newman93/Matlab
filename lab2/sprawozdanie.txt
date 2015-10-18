@@ -1,0 +1,37 @@
+
+[0 1;-1 0] 
+Czyli Wartoœæi w³asne s¹ sprzê¿one: Wykres przedstawia okrêgi o wspólnym œrodku. System stabilny,poniewa¿ czêœci rzeczywiste s¹ niedodatnie.
+
+
+[0 1;0 0] 
+Wykres przedstawia linie równoleg³e do osi OX oraz punkty na osi OX.
+
+[0 0;0 -1]
+ Linie równoleg³e,symetryczne do osi OY
+
+
+[0 0;0 0]
+Wykres przedstawia punkt. System stabilny.
+
+
+[-1 0;0 -1]
+Wykres prostych biêgn¹cych do poczatku uk³¹du wspó³rzêdnych. Proste zaczynaj¹ siê od warunków poczatkowych.
+
+
+[0 1;-1 -1]
+Wykresem jest wir. System stabilny. 
+
+
+[-1 0;0 1]
+Wykresem s¹ hiperbole. Wartoœci maj¹ przeciwne znaki,zatem nie jest stabilny.
+
+
+[1 2;-2 1]
+Wykresem s¹ spirale. Kolejna pra sprzê¿ona wartoœci w³asnych. Czêœæ rzeczywista jest ró¿na od zera. 
+
+
+[-1 0;0 -2]
+Wykresem s¹ parabole. Wartoœci w³asne ujemne,ró¿ne. Pocz¹tek zale¿ny od warunków pocz¹tkowych.
+
+
+Warunki pocz¹tkowe najlepiej ustalaæ zale¿nie od systemu. Ja wybra³em WPC=[sin(liczba),cos(liczba)]
